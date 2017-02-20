@@ -36,7 +36,9 @@ Open three command line windows, type the following three commands in the three 
 ```
 node example.js 4000
 ```
+```
 node example.js 5000
+```
 ```
 node example.js 6000
 ```
